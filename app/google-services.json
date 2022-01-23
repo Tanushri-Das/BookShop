@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430772822853",
+    "project_id": "myshop-fc913",
+    "storage_bucket": "myshop-fc913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430772822853:android:eb27e1a0150dd9fd97942c",
+        "android_client_info": {
+          "package_name": "com.tamanna.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430772822853-k4355hcvfuv6tfr1r650dghv5ke0kk01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpp936NT8pNn3IjGmhV_vNPWTqBfdDiOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430772822853-k4355hcvfuv6tfr1r650dghv5ke0kk01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
